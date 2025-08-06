@@ -1,17 +1,13 @@
-<h1>RESTAURANT-PROJE </h1>
+# RESTAURANT-PROJE
 
-<hr>
 
-<h2>Technologies Used</h2>
 
-<p>
+# Technologies Used
+
+
 - HTML </br></br>
 - CSS
 
-</br></br>
 
-- BDD
-  </br>
-  </br> Responsive </p>
 
 ![](./images/restaurant.gif)
